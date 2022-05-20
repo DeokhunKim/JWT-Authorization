@@ -81,7 +81,7 @@ NOT USE
 
 | Name        | Type     | Description |
 |-------------|----------|-------------|
-| `JWT Token` | `String` | 회원 번호       |
+| `JWT Token` | `String` | 인증 토큰       |
 
 ```
 eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJraW0iLCJyb2xlcyI6WyJST0xFX1VTRVIiXSwiaWF0IjoxNjUxNzM2NTI0LCJleHAiOjE2NTE3MzgzMjR9.MA_joQvYSe_aeEoJm-6P93HpiThjvT9k7z3sOJnVzWw
