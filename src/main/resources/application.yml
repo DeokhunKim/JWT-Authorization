@@ -2,12 +2,6 @@ server:
   port: 8099
 
 spring:
-  datasource:
-    driver-class-name: com.mysql.cj.jdbc.Driver
-    #url: jdbc:mysql://mysql:3306/dockerDB?serverTimezone=Asia/Seoul
-    url: jdbc:mysql://localhost:3307/kpp_user?serverTimezone=Asia/Seoul
-    username: admin
-    password: admin
 
   jpa:
     hibernate:
